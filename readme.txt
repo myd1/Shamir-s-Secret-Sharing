@@ -5,3 +5,4 @@ secret is divided into parts, giving each participant its own unique part, where
 the secret.Counting on all participants to combine the secret might be impractical, and therefore sometimes the threshold scheme is
 used where any {\displaystyle k} k of the parts are sufficient to reconstruct the original secret.
 
+Secret sharing (also called secret splitting) refers to methods for distributing a secret amongst a group of participants, each of whom is allocated a share of the secret. The secret can be reconstructed only when a sufficient number, of possibly different types, of shares are combined together; individual shares are of no use on their own.
